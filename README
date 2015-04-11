@@ -1,0 +1,11 @@
+awful-auth-challenge
+
+A silly authentication example using awful.
+
+The challenge is a grid filled with random numbers which is presented
+to users when they are not authenticated.  That's the login page.
+There's no user, just a challenge.
+
+To run the example:
+
+  $ awful awful-auth-challenge-app.scm

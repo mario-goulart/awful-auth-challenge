@@ -1,0 +1,31 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 4px;
+    text-align: center;
+}
+
+.col-idxs, .line-idxs {
+    background-color: black;
+    color: white;
+}
+
+#game-over, #congrats {
+    font-size: 36pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#restart {
+    margin: 20px;
+    text-align: center;
+}
